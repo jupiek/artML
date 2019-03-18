@@ -4,6 +4,7 @@ Project 2: AI and Creativity
 
 Web Scraping :
 - Data scraped from Google Images
+	-https://github.com/hardikvasa/google-images-download
 	
 Generate Training/Validation/Test Dataset :
 
@@ -12,7 +13,8 @@ Generate Training/Validation/Test Dataset :
 	- parameters: dataset, folder directory, new folder directory
 - edge_detection.ipynb 
 	- generate edges of dataset (creates image B)
-- combine_AandB.py (located in AWS) 
+- combine_AandB.py
+	- https://github.com/phillipi/pix2pix
 	- complete the image to edge training set.
 - split.py - split dataset to training, validation,test datasets (default ratio = 0.6,0.2,0.2)
 
