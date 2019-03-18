@@ -4,7 +4,7 @@ Project 2: AI and Creativity
 
 Web Scraping :
 - Data scraped from Google Images
-	-https://github.com/hardikvasa/google-images-download
+- https://github.com/hardikvasa/google-images-download
 	
 Generate Training/Validation/Test Dataset :
 
