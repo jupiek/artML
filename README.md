@@ -16,5 +16,5 @@ Generate Training/Validation/Test Dataset :
 	- complete the image to edge training set.
 - split.py - split dataset to training, validation,test datasets (default ratio = 0.6,0.2,0.2)
 
-Run:
-  pix2pix-keras.ipynb - specify which dataset you want to train on
+To run the code:
+ Run pix2pix-keras.ipynb with a training data of edge2images generated from the previous steps.
