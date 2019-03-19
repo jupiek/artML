@@ -6,7 +6,7 @@ Web Scraping :
 - Data scraped from Google Images
 - https://github.com/hardikvasa/google-images-download
 	
-Generate Training/Validation/Test Dataset :
+Generate Training/Validation Dataset :
 
 - image-format.py 
 	- transform images to jpeg, adjust size to 286 by 286
@@ -16,7 +16,7 @@ Generate Training/Validation/Test Dataset :
 - combine_AandB.py
 	- https://github.com/phillipi/pix2pix
 	- complete the image to edge training set.
-- split.py - split dataset to training, validation,test datasets (default ratio = 0.6,0.2,0.2)
+- split.py - split dataset to training, validation datasets (default ratio = 0.8,0.2)
 
 To run the code:
  Run pix2pix-keras.ipynb with a training data of edge2images generated from the previous steps.
